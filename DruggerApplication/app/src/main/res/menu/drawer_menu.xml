@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_account"
+        android:title="Hesap Bilgileri"
+        android:icon="@drawable/drugger">
+
+        <!-- Hesap Bilgileri alt menüsü -->
+        <menu>
+
+            <item
+                android:id="@+id/submenu_profile"
+                android:title="Profil" />
+
+            <item
+                android:id="@+id/submenu_settings"
+                android:title="Ayarlar" />
+
+        </menu>
+
+    </item>
+
+    <!-- Diğer menü öğeleri burada olabilir -->
+
+</menu>

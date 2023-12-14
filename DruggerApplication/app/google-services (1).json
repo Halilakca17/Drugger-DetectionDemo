@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "525806470759",
+    "project_id": "druggerapplication",
+    "storage_bucket": "druggerapplication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525806470759:android:dd43b210d9f166d10b36c2",
+        "android_client_info": {
+          "package_name": "com.example.druggerapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525806470759-7pqk51oiebhiictkv5itjtn9738ar7vm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.druggerapplication",
+            "certificate_hash": "d55c9badd9068e2892398fdc5288a7a0e9bf7301"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5YC8Ef3EdJz-p5Mkv1T7PEJ4_39ymHZ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
